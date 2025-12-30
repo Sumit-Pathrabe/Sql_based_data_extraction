@@ -1,6 +1,3 @@
-Below is a template README you can copy and adapt for your SQL-based data extraction project in Python on Google Colab.
-​
-
 SQL Data Extraction with Python on Google Colab
 A SQL-based data extraction project built in Python using Google Colab, focused on connecting to a relational database, running parameterized SQL queries, and exporting the results for further analysis.
 
