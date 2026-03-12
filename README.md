@@ -20,8 +20,6 @@ Database connection from Colab using Python connectors or SQLAlchemy.
 
 Secure credential handling via environment variables or Colab secrets.
 
-Parameterized SQL queries to avoid hard‑coding values.
-
 Automatic data export to CSV stored in Google Drive or local Colab environment.
 
 Modular notebook structure with separate sections for config, queries, and analysis.
