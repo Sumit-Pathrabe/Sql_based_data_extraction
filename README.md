@@ -34,8 +34,8 @@ Database: Replace with your DB (e.g. MySQL/PostgreSQL/SQLite)
 
 Core Libraries:
 
-pandas for data manipulation
+pandas for data manipulation.
 
-sqlalchemy or specific DB driver (e.g. mysql-connector-python, psycopg2)
+SqlAlchemy  psycopg2, And postgres of needed
 
 google.colab utilities for Drive integration (optional)
