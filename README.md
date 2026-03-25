@@ -30,7 +30,7 @@ Environment: Google Colab
 
 Language: Python 3
 
-Database: Replace with your DB (e.g. MySQL/PostgreSQL/SQLite)
+Database: Replace with your DATABASE (e.g. MySQL/PostgreSQL/SQLite)
 
 Core Libraries:
 
