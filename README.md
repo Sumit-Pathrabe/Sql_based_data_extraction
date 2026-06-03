@@ -37,6 +37,11 @@ Core Libraries:
 pandas for data manipulation.
 
 SqlAlchemy  psycopg2, And postgres of needed
+DEVELOPED AND BUILT BY 
+SUMIT P
+DS 
+RCOEM
+
 
 google.colab utilities for Drive integration (optional)
 
