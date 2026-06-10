@@ -45,5 +45,4 @@ RCOEM
 
 google.colab utilities for Drive integration (optional)
 
-Author - Sumit P
-DATA SCIENCE,RCOEM
+
